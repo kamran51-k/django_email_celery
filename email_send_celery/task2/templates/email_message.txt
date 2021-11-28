@@ -1,0 +1,8 @@
+Salam {{name|safe}}
+{{review|safe}}
+
+
+Bize muraciet etdiyiniz ucun tesekkur edirik
+Tezlikle size cavab verilecek
+
+
